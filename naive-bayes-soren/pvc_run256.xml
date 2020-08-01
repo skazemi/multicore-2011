@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="configuration.xsl"?>
+
+<configuration>
+<property><name>gpulib.recordreader.record.maxlength</name><value>256</value></property>
+<property><name>gpulib.recordreader.record.tolerance</name><value>2</value></property>
+</configuration>
